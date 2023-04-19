@@ -1,46 +1,8 @@
-# Getting Started with Create React App
+# Authentication with Firebase and React.js: A Complete Guide
+Welcome to my 'Authentication with Firebase and React.js: A Complete Guide' course! In this course, you'll learn how to implement a complete authentication flow using Firebase and React.js. From social authentication to password resets, I'll guide you through each step of the process, using tools like Redux Toolkit, TypeScript, and React Router.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### YouTube Channel
+The learning doesn't have to stop there! By following my [YouTube channel](https://www.youtube.com/@codewithlari), CodeWithLari, you can stay up-to-date with the latest web development trends, gain access to exclusive content, and join a community of like-minded developers who are dedicated to building amazing applications.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### LinkedIn Profile
+If you're looking to connect with me and other professionals in the industry, be sure to check out my [LinkedIn profile](https://www.linkedin.com/in/laribright/).
