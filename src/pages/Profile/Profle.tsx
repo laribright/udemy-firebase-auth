@@ -42,11 +42,11 @@ const Profile = () => {
     }
   };
 
-  useEffect(() => {
-    if (Boolean(!user)) {
-      navigate("/auth");
-    }
-  }, [navigate, user]);
+  // useEffect(() => {
+  //   if (Boolean(!user)) {
+  //     navigate("/auth");
+  //   }
+  // }, [navigate, user]);
 
   return (
     <>
